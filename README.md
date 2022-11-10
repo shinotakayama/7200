@@ -1,4 +1,3 @@
-
 <p align="center"><span style="font-size: x-large;">Economics of Financial Markets</span></p>
 <p align="center"><span style="font-size: x-large;">Some Slides</span></p>
 <p><font size="4">The materials are based on <a title="" href="https://www.amazon.com/Economics-Banking-Financial-Markets-Pearson/dp/0133836797">The Economics of Money, Banking, and Financial Markets</a>.</font></p>
